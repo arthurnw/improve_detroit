@@ -1,2 +1,2 @@
 # improve_detroit
-Cleaning and reformatting data from the City of Detroit's Improve Detroit initiative
+Cleaning data from the City of Detroit's Improve Detroit dataset
